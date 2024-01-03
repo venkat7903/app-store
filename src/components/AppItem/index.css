@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.app-item {
+  background: #fff;
+  width: 130px;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border-radius: 8px;
+}
+
+.app-img {
+  width: 70%;
+}
+
+.app-name {
+  margin: 0;
+  margin-top: 5px;
+}
